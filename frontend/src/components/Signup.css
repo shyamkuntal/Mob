@@ -1,0 +1,38 @@
+.MYcontainer{
+    margin-top: 10%;
+}
+
+.MYinput-box{
+  width: 19em;
+  padding: 10px;
+  margin-top: 6px;
+  margin-left: 40%;
+  border:  solid 1px;
+}
+
+.MYappButton{
+margin: 20px;
+width: 20.5em;
+  padding: 10px;
+  background-color: rgb(196, 152, 238);
+  border: solid 1px;
+  cursor: pointer;
+  margin-left: 40%;
+
+}
+
+.MYanotherdiv{
+    margin-left: 40%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
